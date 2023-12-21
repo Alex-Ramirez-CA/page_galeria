@@ -10,7 +10,7 @@ body {
 }
 
 .encabezado-img {
-    background-image: url(images/header.png);
+    background-image: url(images/headerSinMarca.png);
     height: 200px;
     background-size: cover;
     display: flex;
